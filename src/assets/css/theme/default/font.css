@@ -1,0 +1,47 @@
+/*大标题颜色，据UI说，这个就是最大的文字标题了*/
+.bh-font_title {
+  font-size: 18px;
+  color: #0BB2fE;
+}
+
+/*副标题把，也许是的*/
+.bh-font_subtitle {
+  font-size: 16px;
+  color: #0BB2fE;
+}
+
+/*正文字体*/
+.bh-font_normal {
+  font-size:14px;
+  color:#333;
+}
+
+/*列表文字*/
+.bh-font_list {
+  font-size: 14px;
+  color: #666;
+}
+
+.bh-font_minor {
+  font-size: 14px;
+  color: #999;
+}
+
+/*字体*/
+.bh-font_size__small {
+  font-size: 12px;
+}
+
+.bh-font_size__standard {
+  font-size: 14px;
+}
+
+.bh-font_size__big {
+  font-size: 16px;
+}
+
+.bh-font_size__large {
+  font-size: 18px;
+}
+
+
